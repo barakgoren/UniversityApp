@@ -10,8 +10,14 @@ Its main purposes was to practice OOP best practices, Reading/Writing to files t
 - [🛠️ Installation](#installation)
 - [🖥️ Usage](#usage)
 - [📧 Contact](#contact)
+- [📸 Screenshots](#screenshots)
+  - [🔑 Login and Registration](#login)
+  - [🏠 Home Page](#home)
+  - [📚 Courses Page](#courses)
+  - [📭 Messages Page](#messages)
+  - [👨🏻‍💼 Admin Page](#admin)
 
-## 🛠️ Installation
+## 🛠️ Installation {#installation}
 
 To get started and test this app, you should clone this repository to a Visual Studio project on a Windows machine.
 ```bash
@@ -22,7 +28,7 @@ Then you can start the app by running it through the IDE.
 ###  ❗️ Notice:
 You might fall into some issues related to files reading and writing files. you should take a look on the FileHandler.cs file to make the right customization to the files/directories paths.
 
-## 🖥️ Usage
+## 🖥️ Usage {#usage}
 
 The app's purpose is to demonstrate a mini demo of a University application that gives tools to manage Faculties/Programs and Students.
 The app has 3 main entities: Student, Lecturer and Head Department. It gives the students the ability to communicate with other students or staff by a messaging system,
@@ -30,15 +36,15 @@ browsing through thier current courses and rate the lecturersa. It also gives th
 
 You are welcome to run the app and test it using its User Interface.
 
-## 📧 Contact
+## 📧 Contact {#contact}
 
 - 👤 Barak Goren
 - 📧 [barak.goren6@gmail.com](mailto:barak.goren6@gmail.com)
 - 💻 [My LinkedIn](https://www.linkedin.com/in/barak-goren-88b223212/)
 
-## 📸  Example screenshots
+## 📸  Example screenshots {#screenshots}
 
-### Login and Registration
+### Login and Registration {#login}
 
 ### ------------------------------------------------------------------------
 
@@ -48,7 +54,7 @@ You are welcome to run the app and test it using its User Interface.
 
 ### ------------------------------------------------------------------------
 
-### Home page
+### Home page {#home}
 
 ### ------------------------------------------------------------------------
 
@@ -56,7 +62,7 @@ You are welcome to run the app and test it using its User Interface.
 
 ### ------------------------------------------------------------------------
 
-### Courses page
+### Courses page {#courses}
 
 ### ------------------------------------------------------------------------
 
@@ -64,7 +70,7 @@ You are welcome to run the app and test it using its User Interface.
 
 ### ------------------------------------------------------------------------
 
-### Messages page
+### Messages page {#messages}
 
 ### ------------------------------------------------------------------------
 
@@ -77,7 +83,7 @@ You are welcome to run the app and test it using its User Interface.
 
 ### ------------------------------------------------------------------------
 
-### Admin Page
+### Admin Page {#admin}
 
 ### ------------------------------------------------------------------------
 
