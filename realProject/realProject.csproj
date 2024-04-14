@@ -199,7 +199,7 @@
     <Content Include="Resources\Screenshots\registration1.png" />
     <Content Include="Resources\Screenshots\registration2.png" />
     <Content Include="Resources\Screenshots\sendMessage.png" />
-    <Content Include="Resources\Screenshots\ loginScreen.png">
+    <Content Include="Resources\Screenshots\login.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\unnamed.jpg" />
