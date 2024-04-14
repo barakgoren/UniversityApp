@@ -1,0 +1,5 @@
+12343215^0^Shuli^1^1^..\..\Resources\noprofile.jpg^32^Java^4.421875^0
+123433212^1^Shahar^mail^phone^..\..\Resources\noprofile.jpg^30^Python^4.0625^pass
+112345679^2^Mor^mail^phone^..\..\Resources\noprofile.jpg^40^JavaScript^3.125^pass
+221234568^3^Erez^mail^phone^..\..\Resources\noprofile.jpg^42^Illustrator^3.125^pass
+234332124^4^Barak^mail^phone^..\..\Resources\noprofile.jpg^26^Data srtuctures^3.125^pass

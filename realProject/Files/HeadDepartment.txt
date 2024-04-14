@@ -1,0 +1,11 @@
+22223333^12345^New Head^example@gmail.com^0546675643^..\..\Resources\noprofile.jpg^25^FullStack^1^1
+11112222^54321^John Smith^johnsmith@gmail.com^0551234567^..\..\Resources\noprofile.jpg^30^Cyber Security^4^password123
+33334444^67890^Jane Doe^janedoe@hotmail.com^0509876543^..\..\Resources\noprofile.jpg^28^Data Science^3^pass1234
+55556666^13579^Alex Johnson^alex.johnson@example.com^0567890123^..\..\Resources\noprofile.jpg^32^Artificial Intelligence^4^qwerty
+77778888^24680^Sarah Thompson^sarah.thompson@gmail.com^0587654321^..\..\Resources\noprofile.jpg^35^Information Technology^4^abcd1234
+99991111^97531^Michael Brown^mbrown@example.com^0543210987^..\..\Resources\noprofile.jpg^29^Network Security^4^password!@#$
+12121212^86420^Emily Wilson^emilywilson@gmail.com^0578901234^..\..\Resources\noprofile.jpg^31^Artificial Intelligence^4^securepass
+14141414^75309^David Lee^davidlee@example.com^0512345678^..\..\Resources\noprofile.jpg^27^Web Development^3^password12345
+16161616^90257^Jessica Martinez^jessicamartinez@hotmail.com^0532109876^..\..\Resources\noprofile.jpg^33^Database Management^4^passw0rd
+18181818^48932^Ryan Harris^ryan.harris@example.com^0598765432^..\..\Resources\noprofile.jpg^34^Mobile App Development^4^mypassword
+445678902^5^Eyal^mail^phone^..\..\Resources\noprofile.jpg^70^Network Communication^0^pass
